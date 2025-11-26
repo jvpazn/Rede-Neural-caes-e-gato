@@ -21,7 +21,7 @@ Faça o download do arquivo do modelo (CNN_model.h5) no link abaixo:
 
 Acesse o notebook que contém a aplicação Streamlit:
 
-🔗 **Notebook no Colab:** [Link Colab Streamlit]([https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing](https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing))
+🔗 **Notebook no Colab:** [Link Colab Streamlit](https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing)
 
 ---
 
