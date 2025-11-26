@@ -13,7 +13,7 @@ Este guia rápido explica como utilizar o modelo e a interface criada com Stream
 
 Faça o download do arquivo do modelo (CNN_model.h5) no link abaixo:
 
-🔗 **Modelo treinado:** [https://drive.google.com/drive/folders/1eU0qreacTYH70Xgg7ReTVLIt60KcD0LV?usp=sharing](https://drive.google.com/drive/folders/1eU0qreacTYH70Xgg7ReTVLIt60KcD0LV?usp=sharing)
+🔗 **Modelo treinado:** [Link Pasta Com o Arquivo Treinado](https://drive.google.com/drive/folders/1eU0qreacTYH70Xgg7ReTVLIt60KcD0LV?usp=sharing)
 
 ---
 
@@ -21,7 +21,7 @@ Faça o download do arquivo do modelo (CNN_model.h5) no link abaixo:
 
 Acesse o notebook que contém a aplicação Streamlit:
 
-🔗 **Notebook no Colab:** [https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing](https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing)
+🔗 **Notebook no Colab:** [Link Colab Streamlit]([https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing](https://colab.research.google.com/drive/1xVUzH--DnH_43P03jMA087YvbPBQncEv?usp=sharing))
 
 ---
 
