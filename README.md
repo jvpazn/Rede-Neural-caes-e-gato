@@ -50,3 +50,11 @@ Fique à vontade para abrir uma *issue* ou entrar em contato.
 Aproveite o projeto e divirta-se testando imagens! 🐾
 
 ---
+
+## 👀 Como Treinamos nosso Modelo?
+
+ Fique à vontade para olhar como treinamos o nosso modelo!
+
+ 🔗 **Notebook no Colab do Treinamento do Modelo:** [Link Colab Treino de Modelo](https://colab.research.google.com/drive/1fZ5lA2B4QSO8I6SowQqn9gVB0O0OihPP?usp=sharing)
+
+
