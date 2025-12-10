@@ -7,6 +7,15 @@ Este guia rápido explica como utilizar o modelo e a interface criada com Stream
 
 ---
 
+Integrantes ;
+
+Joao paz - github.com/jvpazn
+Juan Vila - github.com/juanvnrojas
+Matheus Luciano - github.com/Matheus-lucianoC
+Davi Gleristone - github.com/gl3ristone
+
+---
+
 ## 👀 Como Treinamos nosso Modelo?
 
 Fique à vontade para olhar como treinamos o nosso modelo!
